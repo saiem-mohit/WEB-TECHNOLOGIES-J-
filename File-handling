@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration Form</title>
+</head>
+<body>
+
+	<h1>Registration Form</h1>
+
+	<form action="RegistrationFormAction.php" method="POST">
+
+		<label for="firstName">First Name</label>
+		<input type="text" id="firstName" name="fname">
+
+		<br>
+		
+		<label for="lastName">Last Name</label>
+		<input type="text" id="lastName" name="lname">
+
+		<br>
+
+		<label for="pass">Password</label>
+		<input type="password" id="pass" name="passw">
+
+		<br>
+		Gender:
+       <input type="radio" name="gender" value="female">Female
+       <input type="radio" name="gender" value="male">Male
+       <input type="radio" name="gender" value="other">Other
+
+       <br>
+       Contact Information:
+
+        <br>
+       Email:
+        <input type="email" name="Email">
+        <button title="hint:Sample@example.com" style="color: blue; font-size: 12px;"><b>i</b></button>
+        <br><br>
+        Phone:
+        <br>
+        <input type="Phone" name="Phone">
+        <button title="hint:+880171898430" style="color: blue; font-size: 12px;"><b>i</b></button>
+
+
+        <input type="submit" value="Submit"> 
+
+	</form>
+
+</body>
+</html>
