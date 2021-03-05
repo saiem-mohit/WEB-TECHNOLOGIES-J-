@@ -1,0 +1,2 @@
+{"firstname":"Imrul","lastname":"Afnan","gender":"male","email":"imrul.afnan18@gmail.com","username":"imrul18","password":"lklklk","rec_email":"imrul.afnan18@gmail.com"}
+{"firstname":"Ruponty","lastname":"Rupu","gender":"female","email":"ruponty.rupu18@gmail.com","username":"rupu18","password":"klklkl","rec_email":"ruponty.rupu18@gmail.com"}
