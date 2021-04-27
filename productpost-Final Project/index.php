@@ -13,7 +13,7 @@ session_start();
         <form action="">
 
             <button type="submit" value="Most_Recent" formaction="index.php">Most Recent</button>
-            <button type="submit" value="Most_Liked" formaction="mostLiked.php">Most Liked</button>
+           
 
             <?php
 
