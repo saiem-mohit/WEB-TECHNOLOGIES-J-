@@ -25,13 +25,7 @@ if (!(isset($_SESSION['admin_user_id']))) {
 
                 <button type="submit" id="mainpage" formaction="index.php">Main Page</button>
 
-                <button type="submit" id="postr" value="post_report" formaction="post_report.php">See post reports
-                </button>
-
-                <button type="submit" id="suggestion" value="user_suggestion" formaction="user_suggestion.php">
-                    User_Suggestion
-                </button>
-
+              
                 <button type="submit" id="pass" value="adminpassword" formaction="adminpassword.php">Change Password
                 </button>
 
